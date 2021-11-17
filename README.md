@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Nakib Ansari, I'm a software developer and researcher from India.
+I created this page to share some of my learning noteds  and experience about programming and other technologies. I firmly believe that the more you share you the more your learn.
 
 <!--
 **nakibansari/nakibansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
