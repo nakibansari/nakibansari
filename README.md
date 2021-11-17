@@ -1,4 +1,4 @@
-### Hi there 👋 I am Nakib Ansari
+# Hi I'm Nakib Ansari 👋 
 I'm a software developer and tech enthusiast from India.
 I created this page to share some of my learning notes and experience about programming and other technologies. 
 I firmly believe that the more you share you the more your learn.
