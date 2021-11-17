@@ -1,11 +1,7 @@
 ### Hi there 👋 I am Nakib Ansari
-, I'm a software developer and researcher from India.
-I created this page to share some of my learning noteds  and experience about programming and other technologies. I firmly believe that the more you share you the more your learn.
-
-<!--
-**nakibansari/nakibansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a software developer and tech enthusiast from India.
+I created this page to share some of my learning notes and experience about programming and other technologies. 
+I firmly believe that the more you share you the more your learn.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
