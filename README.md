@@ -1,5 +1,5 @@
-### Hi there 👋
-My name is Nakib Ansari, I'm a software developer and researcher from India.
+### Hi there 👋 I am Nakib Ansari
+, I'm a software developer and researcher from India.
 I created this page to share some of my learning noteds  and experience about programming and other technologies. I firmly believe that the more you share you the more your learn.
 
 <!--
